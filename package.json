@@ -1,0 +1,31 @@
+{
+  "name": "teste-unj",
+  "version": "0.0.441",
+  "description": "react + material-ui = boa ideia",
+  "keywords": [],
+  "main": "index.js",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "latest",
+    "clsx": "1.0.4",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-scripts": "3.0.1"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
